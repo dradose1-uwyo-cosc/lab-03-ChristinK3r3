@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Christin Kere]
+## [Lab 03]
+## [Submission date: 09/23/24]
 ## Worked with/sources 
-* example
+* Danny's ppt
 * example
 * example
 * example
